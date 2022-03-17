@@ -1,0 +1,198 @@
+
+/* dextop size disine */
+.col-1{width:8.33%;}
+
+.col-2{width:16.66%;}
+
+
+.col-3{width:25%;}
+
+
+.col-4{width:33.33%;}
+
+
+.col-5{width:41.66%;}
+
+
+.col-6{ width:50%;}
+
+.col-7{width:58.33%;}
+
+.col-8{width:66.66%;}
+
+.col-9{ width:75%;}
+
+.col-10{width:83.33%;}
+
+.col-11{ width:91.66%;}
+
+.col-12{ width:100%;}
+
+
+/* dextop size disine end */
+
+
+.continer1{
+     padding: 10px;
+     margin: 10px;
+     height: 60px;
+     
+}
+
+.continer1 .main-icon{
+     position: absolute;
+ 
+     left: 30px;
+}
+
+
+.continer1 .search input{
+     position: absolute;
+     top: 2%;
+     left: 280px;
+     width: 40%;
+}
+
+.continer1 .login{
+     height: 35px;
+     margin-top: 10px;
+     margin-left: 10px;
+     position: absolute;
+     top: 2%;
+     left: 70%;
+}
+
+/* continer2 start hear */
+
+.continer2 .text{
+     width: 50%;
+     margin-left: 20%;
+
+}
+
+
+/* continer 2 end hear */
+/* continer3 start hear */
+.continer3 h2{
+     font-size: 2rem;
+     margin-left: 70px;
+}
+
+.continer3 p{
+     font-size: 1.3rem;
+
+     margin-left: 70px;
+
+}
+
+
+
+.continer3 .btnc{
+     margin-left: 70px;
+}
+
+
+/* continer3 end hear */
+/* continer4 start hear */
+.continer4{
+     margin-top:50px ;
+}
+
+.continer4 .p{
+     margin: 20px 0px 10px 150px;
+}
+
+.continer4 .main{
+     margin-top: 20px;
+     margin-left: 130px;
+}
+
+/* continer4 end hear */
+
+/* continer5 start hear */
+
+
+.continer5 .divv{
+     width: 100%;
+    
+}
+
+.continer5 .divv img{
+     width: 100%;
+}
+
+
+
+     .continer5 .img{
+          grid-template-rows: auto auto;
+         grid-gap: 10px;
+     }
+
+
+/* continer5 end hear */
+/* continer6 start hear */
+
+.continer6 .card{
+     margin: 5%;
+     margin-top: 10%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+     
+}
+
+.continer6 .card .card1{
+     margin-left: 5px;
+}
+
+/* continer6 end hear */
+
+/* continer7 start hear */
+
+.continer7{
+     box-sizing: border-box;
+     position: relative;
+
+}
+
+
+.continer7 .input{
+     background: #000000;
+
+}
+
+
+.continer7 .input input{
+     margin-top: 60px;
+     margin-left: 5px;
+
+
+     width: 80%;
+     display: flex;
+     flex-direction: row;
+}
+
+
+.continer7 .input button{
+     position: relative;
+     left: 62.0%;
+}
+
+
+
+/* continer 7 end hear */
+
+
+/* continer8 start hear */
+
+/* continer 9 start hear  */
+
+.continer9 .manubar ul li{
+    
+     flex-direction: row;
+     padding: 5px 10px;
+     display: inline-flex;
+}
+
+/* continer9 end hear */

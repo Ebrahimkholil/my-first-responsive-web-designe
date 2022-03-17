@@ -1,0 +1,91 @@
+
+
+*{
+     box-sizing: border-box;
+     padding: 0px;
+     margin: 0px;
+}
+
+body{
+     /* background-color: #3288ce; */
+     width: 100%;
+     height: 100%;
+     color: #ffffff;
+     text-align: center;
+     position: relative;
+     background-image: url('PHOTO/BGL.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% ;
+  background-attachment: fixed;
+}
+h1{
+     position: relative;
+     top: 20px;
+}
+
+.from form{
+     padding: 0;
+     margin: 0 auto;
+    border: 2px solid #090a0a;
+     width: 20%;
+     height: 350px;
+     position: relative;
+     top: 150px;
+     background-color:#000000;
+     box-shadow: 0px 0px 10px 10px #070707 ;
+     border-radius: 5px;
+}
+.from form:hover{
+     transform: scale(1.1);
+}
+
+
+.from form p{
+     margin: 10px;
+     position: relative;
+     top: 60px;
+}
+
+.from form p input{
+     width: 95%;
+     margin-top: 10px;
+    padding-left:10px;
+     background: none;
+   border: 0px 0px 5px 0px solid red;
+   
+  height: 25px; 
+  
+     border-radius: 20px;
+
+   
+}
+
+.from form p input:focus{
+     background-color: white;
+}
+
+.from form button{
+     width: 80%;
+     height: 30px;
+     border-radius: 10px;
+     background-color:#ffffff;
+     position: relative;
+     top: 70px;
+     cursor: pointer;
+}
+
+.from form button a{
+     text-decoration: none;
+     color: #000000;
+}
+
+.f a{
+     /* padding: 10px;
+     margin: 10px; */
+     text-align: left;
+     text-decoration: none;
+     color: #ffffff;
+     position: relative;
+     bottom: -90px;
+     cursor: pointer;
+}
